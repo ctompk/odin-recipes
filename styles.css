@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background: url(https://cdn.discordapp.com/attachments/814777517075595304/1097386276476436591/vic.jpg) no-repeat center center fixed;
+    color:rgb(255, 255, 255);
+}
+
+h1{
+    color:rgb(255, 255, 255);
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0)
+}
