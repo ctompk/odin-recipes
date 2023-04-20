@@ -12,6 +12,7 @@ h1{
 }
 
 button{
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0)
+    background-color: rgb(199, 186, 2);
+    color: rgb(0, 0, 0);
+    display: block;
 }
